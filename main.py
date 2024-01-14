@@ -37,3 +37,6 @@ while user_input != "Q":
     elif user_input == "Display" :
         for i in database:
             print(database[i])    
+
+    elif user_input == "Sort" :
+        pass
